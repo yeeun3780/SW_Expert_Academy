@@ -15,7 +15,7 @@
 8. Commit and leave comment.
 9. Repeat (6-8)
 10. Switch master branch and merge new branch into master branch.
-11. push to remote repository.
+11. Push to remote repository <b>after pull the original repository.</b>
 12. New Pull Request.
 13. Repeat (5-12) <b>after pull the original repository.</b>
 <hr>
