@@ -19,3 +19,59 @@
 12. New Pull Request.
 13. Repeat (5-12) <b>after pull the original repository.</b>
 <hr>
+
+### < 190102 >
+
+1. 소스트리 설치 및 Github.com 가입
+2. Typora 설치
+3. 소스트리를 이용한 Git 실습 (마크다운 문서 실습겸)
+
+- Fork, Clone
+- Repository (local, remote, forked remote)
+- Branch 개념, 브랜치 변경, current branch
+- Stage area, unstage area, commit (kind of little version)
+- Push, pull request, merge, pull
+
+---
+
+< Homework >
+
+1. Git 과 소스트리 동영상 보기
+  https://opentutorials.org/course/1492
+
+  누구나 쉽게 이해할 수 있는 Git 입문
+
+  https://backlog.com/git-tutorial/kr/intro/intro1_1.html
+
+
+2. 마크다운 문법 공부 (실습은 typora 로..)
+  https://gist.github.com/ihoneymon/652be052a0727ad59601
+
+3. 진유림님의 <b>신입 개발자 생활백서</b> 다 읽어보기.
+
+   https://www.slideshare.net/jayjin0427/ss-61315271
+
+
+
+4. 삼성 소프트웨어 익스퍼트 아카데미 회원가입 하기
+
+   https://www.swexpertacademy.com/main/main.do
+
+5. Node.js 설치 및 NPM 개념 확인
+
+   [https://www.a-mean-blog.com/ko/blog/MEAN-Stack/개발-환경-구축](https://www.a-mean-blog.com/ko/blog/MEAN-Stack/개발-환경-구축)
+
+
+
+6. 웹스톰 설치하기
+
+   https://www.jetbrains.com/webstorm/
+
+7. 웹스톰 학생인증 하기
+
+   [https://blog.jetbrains.com/kr/2018/09/jetbrains-학생-무료-라이센스는-이제-github에서-바로-사용할-수/](https://blog.jetbrains.com/kr/2018/09/jetbrains-학생-무료-라이센스는-이제-github에서-바로-사용할-수/)
+
+
+
+8. 마지막 튜터링 잘 따라오기.
+
