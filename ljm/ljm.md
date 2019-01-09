@@ -1,9 +1,12 @@
 ### ljm's area
 
-* 불렛리스트
-  * 연습
+* PR : Pull Request
+  * merge - pull - push
+* pull = fetch + merge
 
 
 
-~~test~~
+
+
+
 
