@@ -1,4 +1,12 @@
-### rye's area
+# Ryu Area
 
-#### my area
+
+
+#### reviews
+
+​	`printf("hello wolrd!");`
+
+`	printf("my study");`
+
+
 
