@@ -1,9 +1,6 @@
 ### 후배들을 위한 알고리즘 스터디
 
-> 문제 해결능력을 위한 알고리즘 문제풀이 <br>
-> git 사용방법은 플러스 알파 <br>
-> 문제풀이 리뷰를 통한 mark down 문서 작성 실습 <br>
-> [https://www.swexpertacademy.com/](https://www.swexpertacademy.com/) 에서 난이도별 학습 예정 <br>
+> 문제 해결능력을 위한 알고리즘 문제풀이 <br>git 사용방법은 플러스 알파 <br>문제풀이 리뷰를 통한 mark down 문서 작성 실습 <br>[https://www.swexpertacademy.com/](https://www.swexpertacademy.com/) 에서 난이도별 학습 예정 <br>
 
 1. Fork this repository
 2. clone forked repository to your local area. (make local repository)
@@ -17,15 +14,36 @@
 10. Switch master branch and merge new branch into master branch.
 11. Push to remote repository <b>after pull the original repository.</b>
 12. New Pull Request.
-13. Repeat (5-12) <b>after pull the original repository.</b>
+13. Repeat (5-12) <b>after pull the original repository.
+
+<hr>
+
+
+
+### < 190109 >
+
+
+1. Git 과 Github 개념 확인하기.<br>Git : 버전 관리를 위한 도구<br>Github : 분산 버전 관리 툴인 Git을 사용하는 프로젝트를 지원하는 웹호스팅 서비스<br>관련 포스팅 내용 확인해보기<br>[https://www.zerocho.com/category/Git/post/58045dbc146be6001542a465](https://www.zerocho.com/category/Git/post/58045dbc146be6001542a465)<br>깃허브 관련 최근기사 읽어보기<br> [https://www.44bits.io/ko/post/news--github-announcing-unlimited-free-private-repository#깃헙github-무료-플랜에-대해-무제한-비공개-저장소-제공](https://www.44bits.io/ko/post/news--github-announcing-unlimited-free-private-repository#깃헙github-무료-플랜에-대해-무제한-비공개-저장소-제공)
+
+2. Git Flow 이해해보기<br>Pull(Fetch + Merge), Push, Pull Request, Branch 후 작업 흐름.<br>관련 포스팅 내용 확인해보기<br>[http://mwoo526.tistory.com/18#comment11591462](http://mwoo526.tistory.com/18#comment11591462)
+
+   <img width="345" alt="git_flow_by_ljm" src="https://user-images.githubusercontent.com/13485924/50947534-27898880-14e2-11e9-9e48-69b415a4c779.png">
+
+3. HTTP 응답 상태코드.<br>2xx : 정상 응답<br>3xx : 리다이렉션<br>4xx : 클라이언트 에러<br>5xx : 서버 에러<br>관련 포스팅 내용 읽어보기<br>[ https://www.zerocho.com/category/NodeJS/post/579b4ead062e76a002648af7]( https://www.zerocho.com/category/NodeJS/post/579b4ead062e76a002648af7)
+
+4. gVim 설치해보기<br>설치 사이트 : [https://www.vim.org/download.php](https://www.vim.org/download.php)
+
+5. D1 문제 풀고 풀리퀘스트 날려보기.<br>[https://swexpertacademy.com/main/code/problem/problemList.do?problemLevel=1&problemTitle=&orderBy=FIRST_REG_DATETIME&select-1=&pageSize=10&pageIndex=1](https://swexpertacademy.com/main/code/problem/problemList.do?problemLevel=1&problemTitle=&orderBy=FIRST_REG_DATETIME&select-1=&pageSize=10&pageIndex=1)<br>branch 생성하기 전에 origin remote 에 최신버전 있는지 확인하고 있다면 pull 하기.<br>push 하기 전에도 마찬가지..!!
+
+6. [오픈소스에 참여해서 좋은 개발자 되기.pdf](https://lookaside.fbsbx.com/file/오픈소스에%20참여해서%20좋은%20개발자%20되기.pdf?token=AWzQRMpQyedr-dGeZi3tM3WD3t-_WXE--IYfGu4U_3L6H4APdYOQZt_-ApG7pjKP__MYaVYhGVt55pBSl_3ggg9S0L1n4O5of0HpB2lqJyDoTV2FCFruXcD3oF-VcUdvoGml1aw8_NeGqaKEmMxamxim3zD48gaR8fv1OaL1OrQ5z98wsQqMiy2tmcJY2MIXf_rgHb3BJBSp0FJm9XDJCL1aYupO-jqhrB38M3o__w68DQ) 읽어보기 (by 강대명 님)
+
 <hr>
 
 ### < 190102 >
 
 1. 소스트리 설치 및 Github.com 가입
 2. Typora 설치
-3. 소스트리를 이용한 Git 실습 (마크다운 문서 실습겸)
-
+3. 소스트리를 이용한 Git 실습 (마크다운 문서 실습)
 - Fork, Clone
 - Repository (local, remote, forked remote)
 - Branch 개념, 브랜치 변경, current branch
@@ -36,42 +54,19 @@
 
 < Homework >
 
-1. Git 과 소스트리 동영상 보기
-  https://opentutorials.org/course/1492
+1. Git 과 소스트리 동영상 보기<br>https://opentutorials.org/course/1492<br>누구나 쉽게 이해할 수 있는 Git 입문<br>https://backlog.com/git-tutorial/kr/intro/intro1_1.html
 
-  누구나 쉽게 이해할 수 있는 Git 입문
+2. 마크다운 문법 공부 (실습은 typora 로..)<br>https://gist.github.com/ihoneymon/652be052a0727ad59601
 
-  https://backlog.com/git-tutorial/kr/intro/intro1_1.html
+3. 진유림님의 <b>신입 개발자 생활백서</b> 다 읽어보기.<br>https://www.slideshare.net/jayjin0427/ss-61315271
 
+4. 삼성 소프트웨어 익스퍼트 아카데미 회원가입 하기<br>https://www.swexpertacademy.com/main/main.do
 
-2. 마크다운 문법 공부 (실습은 typora 로..)
-  https://gist.github.com/ihoneymon/652be052a0727ad59601
+5. Node.js 설치 및 NPM 개념 확인<br>[https://www.a-mean-blog.com/ko/blog/MEAN-Stack/개발-환경-구축](https://www.a-mean-blog.com/ko/blog/MEAN-Stack/개발-환경-구축)
 
-3. 진유림님의 <b>신입 개발자 생활백서</b> 다 읽어보기.
+6. 웹스톰 설치하기<br>https://www.jetbrains.com/webstorm/
 
-   https://www.slideshare.net/jayjin0427/ss-61315271
-
-
-
-4. 삼성 소프트웨어 익스퍼트 아카데미 회원가입 하기
-
-   https://www.swexpertacademy.com/main/main.do
-
-5. Node.js 설치 및 NPM 개념 확인
-
-   [https://www.a-mean-blog.com/ko/blog/MEAN-Stack/개발-환경-구축](https://www.a-mean-blog.com/ko/blog/MEAN-Stack/개발-환경-구축)
-
-
-
-6. 웹스톰 설치하기
-
-   https://www.jetbrains.com/webstorm/
-
-7. 웹스톰 학생인증 하기
-
-   [https://blog.jetbrains.com/kr/2018/09/jetbrains-학생-무료-라이센스는-이제-github에서-바로-사용할-수/](https://blog.jetbrains.com/kr/2018/09/jetbrains-학생-무료-라이센스는-이제-github에서-바로-사용할-수/)
-
-
+7. 웹스톰 학생인증 하기<br>[https://blog.jetbrains.com/kr/2018/09/jetbrains-학생-무료-라이센스는-이제-github에서-바로-사용할-수/](https://blog.jetbrains.com/kr/2018/09/jetbrains-학생-무료-라이센스는-이제-github에서-바로-사용할-수/)
 
 8. 마지막 튜터링 잘 따라오기.
 
